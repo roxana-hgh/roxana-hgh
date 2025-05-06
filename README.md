@@ -7,7 +7,7 @@ Currently working with **Angular** and focused on building modern, responsive we
 
 ### 👩‍💻 About Me
 
-- 🎓 Computer Engineering graduate from **Fasa University**  
+- 🎓 Computer Engineering graduate  
 - 🧠 2.5 years of on-site experience as a front-end developer  
 - 🛠️ Continuously learning and expanding my skillset  
 - 🚀 Passionate about leveling up as a developer
