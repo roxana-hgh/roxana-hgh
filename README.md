@@ -2,8 +2,7 @@
 
 ### Front-End Developer
 
-I'm a passionate Front-End Developer who enjoys building modern web applications, solving challenging problems, and continuously learning new technologies. I'm currently focused on the React ecosystem while expanding my full-stack development skills with Node.js and Express.
-
+I'm a passionate Front-End Developer who enjoys building modern web applications, solving challenging problems, and continuously learning new technologies.
 ---
 
 ## 👩‍💻 About Me
@@ -39,16 +38,6 @@ I'm a passionate Front-End Developer who enjoys building modern web applications
 ![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📈 Currently Learning
-
-- ⚛️ Advanced React
-- ▲ Next.js
-- 🟢 Node.js & Express
-- 🤖 AI Integration
-- ☁️ Deployment & DevOps
 
 ---
 
